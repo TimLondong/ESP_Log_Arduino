@@ -8,8 +8,8 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "/Users/timlondong/Documents/PlatformIO/Projects/Log/ESP_Log_Arduino/include",
-                "/Users/timlondong/Documents/PlatformIO/Projects/Log/ESP_Log_Arduino/src",
+                "/Users/timlondong/ESP_Log_Arduino/include",
+                "/Users/timlondong/ESP_Log_Arduino/src",
                 "/Users/timlondong/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/config",
                 "/Users/timlondong/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_trace",
                 "/Users/timlondong/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_update",
@@ -106,8 +106,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "/Users/timlondong/Documents/PlatformIO/Projects/Log/ESP_Log_Arduino/include",
-                    "/Users/timlondong/Documents/PlatformIO/Projects/Log/ESP_Log_Arduino/src",
+                    "/Users/timlondong/ESP_Log_Arduino/include",
+                    "/Users/timlondong/ESP_Log_Arduino/src",
                     "/Users/timlondong/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/config",
                     "/Users/timlondong/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_trace",
                     "/Users/timlondong/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_update",
@@ -220,7 +220,7 @@
             ],
             "cStandard": "c99",
             "cppStandard": "c++11",
-            "compilerPath": "/Users/timlondong/.platformio/packages/toolchain-xtensa32/bin/xtensa-esp32-elf-gcc",
+            "compilerPath": "/Users/timlondong/.platformio/packages/toolchain-xtensa32@2.50200.97/bin/xtensa-esp32-elf-gcc",
             "compilerArgs": [
                 "-mlongcalls",
                 ""
