@@ -14,5 +14,5 @@ void loop()
   log_i("Info");
   log_w("Warning");
   log_e("Error");
-  delay(5000);
+  delay(10000);
 }
